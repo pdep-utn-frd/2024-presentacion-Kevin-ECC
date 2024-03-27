@@ -1,10 +1,10 @@
-# presentacion-
+# presentacion de Kevin Condo
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+- Me llamo Kevin y tengo 21 años.
+- Vivo en Escobar.
+- Estoy estudiando la carrera Ingenieria en Sistemas de Informacion.
+- Me gusta jugar al voley y al ajedrez.
+- Se tocar la guitarra.
+- Me gusta escuchar musica tranquila.
 
-Ya saben usar git!
+Ya sé usar git!
